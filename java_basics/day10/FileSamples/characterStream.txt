@@ -1,0 +1,5 @@
+PS G:\java\core java>  g:; cd 'g:\java\core java'; & '
+C:\Program Files\Java\jre1.8.0_351\bin\java.exe' '-cp' 'C:\User
+s\wwwkt\AppData\Roaming\Code\User\workspaceStorage\5bee3de1922babfb74
+570e07248af549\redhat.java\jdt_ws\core java_4cdfdb12\bin' 'java_basics.da
+10.FileNameStream'
