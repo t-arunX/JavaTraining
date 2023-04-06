@@ -11,6 +11,7 @@ public class NamesUnion {
         Path p1 = Paths.get("JavaTraining\\java_basics\\day11\\Files\\Names1.txt");
         Path p2 = Paths.get("JavaTraining\\java_basics\\day11\\Files\\Names2.txt");
         LinkedHashSet<String> lhs = new LinkedHashSet<>();
+        //new line
         lhs.addAll(Files.readAllLines(p1));
         lhs.addAll(Files.readAllLines(p2));
         for (String s : lhs) {
