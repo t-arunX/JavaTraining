@@ -7,7 +7,7 @@ public class InvalidInputException extends Exception {
 	public InvalidInputException(String msg) {
 		super(msg);
 	}
-	// public InvalidInputException(int x){
-	// 	super(String.valueOf(x));
-	// }
+// 	public InvalidInputException(int x){
+// 		super(String.valueOf(x));
+// 	}
 }
